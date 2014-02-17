@@ -1,0 +1,35 @@
+
+body{
+	background:#ecf0f1; 
+}
+
+.container{
+	width:800px;
+	margin-right:auto;
+	margin-left:auto;  
+}
+
+.titleBox{
+	font-size: 60px;
+	font-family: 'Kite One',arial;
+	margin-top: 100px;
+	text-align: center;
+	color: #313131;
+	letter-spacing: -4px;
+}
+
+.subtitle{
+	font-size: 30px;
+	font-family: 'Kite One',arial;
+	margin-top: 100px;
+	text-align: center;
+	color: #2089C4;
+	margin-bottom: 60px;
+}
+
+.soon{
+	font-size: 40px;
+	font-family: 'Kite One',arial;
+	text-align: center;
+	color: #5B6A72;
+}
